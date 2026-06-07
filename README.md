@@ -35,12 +35,6 @@
 </div>
 
 <br/>
-<br/>
-
-<br/>
-<h3 align="center">---------------------------------------------------------------------------------------------------------------------------------------------</h3>
-<br/>
-
 <!-- End -->
 <div align="center">
     <a href="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/gife5.gif?raw=true">
