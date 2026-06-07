@@ -1,5 +1,3 @@
-<img align="left" alt="gife4.gif" width="300" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/gife6.gif?raw=true" />
-
 <h3 align="left">- Sobre</h3>
 <p>
   🎓 Dedicado ao aprimoramento das minhas habilidades de programação, com foco e base sólida em Python.<br>
@@ -10,10 +8,10 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <h3 style="margin-right: 10px; margin-bottom: 0;">- Social:</h3>
-    <a href="mailto:jvictorsantos.dev@gmail.com"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-50646b353/" target="_blank"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-    <a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-    <a href="https://discord.gg/qtjh4qaM" target="_blank"><img width="35px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/discord.png" alt="Discord" / ></a><br>
+    <a href="mailto:jfreitasoliveira.net@gmail.com"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+    <a href="" target="_blank"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+    <a href="" target="_blank"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+    <a href="" target="_blank"><img width="35px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/discord.png" alt="Discord" / ></a><br>
 </div>
 <br/>
 
@@ -27,16 +25,10 @@
 <div align="center">
     <table align="center">
         <tr>
-            <td style="border: none; padding-right: 20px;">
-                <div align="center">
-                  <img src="svg/metrics.plugin.github.svg" width="430" alt="Perfil GitHub" /><br>
-                </div>
-            </td>
             
 <td style="border: none; padding-right: 20px;">
      <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
-     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
-     <img src="https://skillicons.dev/icons?i=ps,linux,robloxstudio" /><br>
+     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion,linux" /><br>
 </td>
         </tr>
     </table>
@@ -44,11 +36,6 @@
 
 <br/>
 <br/>
-<!-- Languages Used-->
-<h3 align="center"> Status</h3>
-<div align="center">
-    <img src="svg/metrics.plugin.languages.details.svg" alt="Métricas de Linguagens Recentes" />
-</div>
 
 <br/>
 <h3 align="center">---------------------------------------------------------------------------------------------------------------------------------------------</h3>
